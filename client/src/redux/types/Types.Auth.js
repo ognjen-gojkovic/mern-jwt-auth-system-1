@@ -1,0 +1,8 @@
+export const typesAuth = {
+  AUTH_START: "AUTH_START",
+  AUTH_SUCCESS: "AUTH_SUCCESS",
+  AUTH_ERROR: "AUTH_ERROR",
+  LOGOUT: "LOGOUT",
+
+  USER_LS: "USER_LS",
+};
